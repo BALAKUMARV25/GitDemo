@@ -22,6 +22,10 @@ public class SetTest {
 		s.addAll(s);
 		System.out.println(s);
 	
+		System.out.println("Bala");
+	System.out.println("Naga");
+	System.out.println("Shan");
+	
 	
 	}
 		
