@@ -26,6 +26,11 @@ public class SetTest {
 	System.out.println("Naga");
 	System.out.println("Shan");
 	
+	System.out.println("Bala2");
+	System.out.println("Naga2");
+	System.out.println("Shan3");
+	
+	
 	
 	}
 		
